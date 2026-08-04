@@ -1,0 +1,226 @@
+{
+  "section": "1.1-1.9",
+  "title": "Mathematical Thinking, Problem Solving & Math as a Language",
+  "learningObjective": "SLO 1.1: Apply and evaluate multiple problem-solving strategies, including Polya's 4-step process, to mathematical and real-world scenarios. SLO 1.2: Analyze, translate, solve, and interpret mathematical problems. SLO 1.3: Create a mathematical problem-solving scenario inspired by real-world observations and analyze it using counting, patterns, or spatial relationships. SLO 1.4: Analyze and use mathematical language, symbols, and structures to communicate ideas precisely and logically.",
+  "faqs": [
+    {
+      "id": "faq-1",
+      "category": "conceptual",
+      "question": "What does it mean to 'think mathematically,' and why does it matter for future teachers?",
+      "answer": "<p>Your textbook opens Chapter 1 with a direct answer: mathematical thinking is not the same as computing answers — it means <strong>understanding why concepts work, making connections, and applying knowledge in new and challenging situations</strong>. It is what separates a teacher who can explain mathematics from one who can only demonstrate procedures.</p><div class=\"example-box\"><div class=\"label\">Eight Dimensions of Mathematical Thinking (Section 1.1)</div><p class=\"math-line\">1. <strong>Abstract reasoning</strong> — working with symbols and structures, not just numbers</p><p class=\"math-line\">2. <strong>Logical reasoning</strong> — constructing valid arguments and detecting flaws</p><p class=\"math-line\">3. <strong>Modeling and interpretation</strong> — translating real situations into math and back</p><p class=\"math-line\">4. <strong>Problem-solving and creativity</strong> — exploring multiple strategies, trying new approaches</p><p class=\"math-line\">5. <strong>Communication and justification</strong> — explaining <em>why</em> a solution works</p><p class=\"math-line\">6. <strong>Real-world application</strong> — connecting math to science, finance, data</p><p class=\"math-line\">7. <strong>Embracing productive struggle</strong> — persevering; viewing mistakes as learning</p><p class=\"math-line\">8. <strong>Using tools strategically</strong> — knowing when to use a calculator, graph, or manipulative</p></div><p>Your textbook (citing Devlin, 2012 and NCTM, 2020) frames this clearly: teachers who embrace mathematical thinking help students see math as a <em>tool for understanding and shaping the world</em>, not a set of rules to follow.</p>"
+    },
+    {
+      "id": "faq-2",
+      "category": "conceptual",
+      "question": "What are Polya's four steps, and how do they actually help when I'm stuck?",
+      "answer": "<p>George Pólya's four-step framework, from his 1945 book <em>How to Solve It</em>, is the backbone of Chapter 1. The steps are deceptively simple — the real work is in <em>how</em> you execute them.</p><div class=\"example-box\"><div class=\"label\">Polya's Four Steps</div><p class=\"math-line\"><strong>1. Understand the Problem</strong> — Restate it in your own words. What are you given? What are you looking for? What is unknown?</p><p class=\"math-line\"><strong>2. Devise a Plan</strong> — Choose a strategy from your toolbox (see FAQ 3). This is where the creative work happens.</p><p class=\"math-line\"><strong>3. Carry Out the Plan</strong> — Execute your strategy step by step, showing all work.</p><p class=\"math-line\"><strong>4. Look Back and Reflect</strong> — Does your answer make sense? Could you have solved it differently? What did you learn?</p></div><p>Your textbook is candid: Steps 1 and 2 are \"more art than science\" and become clearer with practice. The best way to become a skilled problem solver is to <em>solve a lot of problems</em> — and reflect on each one. Step 4 is the most underused and most valuable step for future teachers.</p>"
+    },
+    {
+      "id": "faq-3",
+      "category": "conceptual",
+      "question": "What problem-solving strategies does the textbook teach, and when should I use each one?",
+      "answer": "<p>Your textbook presents Polya's full heuristic toolkit — strategies that go inside Step 2 (\"Devise a Plan\"). You don't memorize which to use; you develop judgment through practice.</p><div class=\"example-box\"><div class=\"label\">Core Strategies (Sections 1.3–1.5)</div><p class=\"math-line\"><strong>Guess and Test</strong> — Make a guess, test it, refine. Best when there are few possible answers.</p><p class=\"math-line\"><strong>Draw a Picture or Diagram</strong> — Visualize the problem. Often unlocks what algebra cannot.</p><p class=\"math-line\"><strong>Use a Variable</strong> — Represent the unknown. The foundation of algebraic reasoning.</p><p class=\"math-line\"><strong>Look for a Pattern</strong> — Find structure in examples. Connects to inductive reasoning.</p><p class=\"math-line\"><strong>Make a List or Table</strong> — Organize information systematically to reveal relationships.</p><p class=\"math-line\"><strong>Solve a Simpler Problem</strong> — Tackle a smaller version first; the pattern often generalizes.</p><p class=\"math-line\"><strong>Work Backwards</strong> — Start from the desired outcome and reverse-engineer the path.</p></div><div class=\"tip\"><p class=\"math-line\"><strong>Teaching move:</strong> When students are stuck, asking \"What strategy haven't we tried?\" or \"What would happen if the problem were smaller?\" is more productive than giving them the answer.</p></div>"
+    },
+    {
+      "id": "faq-4",
+      "category": "conceptual",
+      "question": "What is the difference between a problem-solving task and a routine exercise, and when should students do each?",
+      "answer": "<p>This is one of your classmates' most important questions — and the answer reshapes how you'll design math instruction.</p><div class=\"example-box\"><div class=\"label\">The Key Distinction</div><p class=\"math-line\">A <strong>routine exercise</strong> is a task where you already know which procedure to apply. You practice it to build fluency and speed. Example: \"Compute \\(47 + 83\\).\"</p><p class=\"math-line\">A <strong>problem-solving task</strong> is a task where the path to the solution is not immediately obvious. You must devise a strategy. Example: \"How many squares are on a checkerboard?\"</p></div><p>Both are necessary — and in the right order. Your textbook (following Feikes, Schwingendorf & Gregg, 2018) is explicit: <em>real understanding comes from solving problems</em>, not just practicing procedures. Exercises build fluency after understanding is established; problems build the understanding in the first place.</p><div class=\"tip\"><p class=\"math-line\"><strong>For future teachers:</strong> If every task you assign has an obvious procedure, students never develop the flexibility Polya's framework builds. Rich tasks — ones with multiple entry points and multiple valid strategies — are the engine of genuine mathematical learning.</p></div>"
+    },
+    {
+      "id": "faq-5",
+      "category": "conceptual",
+      "question": "What is productive struggle, and why is it a feature of good math learning rather than a sign something is wrong?",
+      "answer": "<p>Your textbook opens with this as one of its core commitments: <strong>struggle is part of the learning process and a key to growth</strong> (CDE, 2013; NCTM, 2020). This idea is supported by decades of research on what is called <em>productive struggle</em>.</p><div class=\"example-box\"><div class=\"label\">What the Research Shows</div><p class=\"math-line\">Students with a <strong>growth mindset</strong> — the belief that ability grows through effort — persist longer on hard problems, relish challenge, and learn from mistakes (Dweck, 2006; Boaler, 2022).</p><p class=\"math-line\">Students with a <strong>fixed mindset</strong> avoid challenging work because struggle feels like proof of limited ability. For them, there is no such thing as productive struggle — struggle just means failure (Seda & Brown, 2021).</p><p class=\"math-line\">Mindset interventions <strong>accelerate learning trajectories</strong> — especially for students from marginalized groups (Blackwell et al., 2007).</p></div><div class=\"tip\"><p class=\"math-line\"><strong>For future teachers:</strong> When a student is stuck and frustrated, the worst response is to immediately rescue them. The best response is to ask a question that re-opens the problem: \"What do you know for sure?\" or \"What have you already tried?\" Struggle without support is frustrating; struggle with the right scaffolding is where learning happens.</p></div>"
+    },
+    {
+      "id": "faq-6",
+      "category": "conceptual",
+      "question": "What is the difference between inductive and deductive reasoning, and why do both matter?",
+      "answer": "<p>Your textbook (Section 1.5, drawing on Burton, 1984 and Feikes et al., 2018) treats this as a foundational distinction for teachers.</p><div class=\"example-box\"><div class=\"label\">Two Modes of Mathematical Reasoning</div><p class=\"math-line\"><strong>Inductive reasoning</strong> — specific observations → general conclusions. You notice patterns, make predictions (conjectures), and build toward generalizations. Conclusions are likely but not guaranteed.</p><p class=\"math-line\"><em>Example:</em> Noticing that \\(1, 1+3, 1+3+5, 1+3+5+7\\) equals \\(1, 4, 9, 16\\) and conjecturing that sums of consecutive odd numbers are always perfect squares.</p><p class=\"math-line\"><strong>Deductive reasoning</strong> — general principles → specific conclusions. You apply known rules to reach certain, provable results.</p><p class=\"math-line\"><em>Example:</em> Using the proven pattern to <em>calculate</em> that \\(1+3+5+\\cdots+19 = 10^2 = 100\\) without adding each term.</p></div><p>Elementary students primarily use inductive reasoning — they explore and discover. As they mature, deductive reasoning becomes more central. As a future teacher, you need both: induction to design discovery activities, deduction to confirm and prove.</p>"
+    },
+    {
+      "id": "faq-7",
+      "category": "conceptual",
+      "question": "What is the 'Solve a Simpler Problem' strategy, and why is it so powerful?",
+      "answer": "<p>Your textbook uses the classic checkerboard problem to demonstrate this strategy: how many squares are on an 8×8 checkerboard? The answer isn't 64 — because squares can be 1×1, 2×2, 3×3, and so on all the way to 8×8.</p><div class=\"example-box\"><div class=\"label\">The Simpler Problem Strategy in Action</div><p class=\"math-line\">Instead of attacking the 8×8 board directly, start with a 1×1, 2×2, 3×3, 4×4 board.</p><p class=\"math-line\">Count carefully: \\(1 \\times 1 \\to 1\\) square \\(\\mid\\) \\(2 \\times 2 \\to 5\\) squares \\(\\mid\\) \\(3 \\times 3 \\to 14\\) squares \\(\\mid\\) \\(4 \\times 4 \\to 30\\) squares</p><p class=\"math-line\">The pattern: \\(1^2,\\ 1^2+2^2,\\ 1^2+2^2+3^2,\\ 1^2+2^2+3^2+4^2, \\ldots\\)</p><p class=\"math-line\">For an 8×8 board: \\(1^2+2^2+\\cdots+8^2 = 204\\) total squares</p></div><div class=\"tip\"><p class=\"math-line\"><strong>Why this works pedagogically:</strong> Simpler cases reveal structure that the full problem obscures. This strategy also models how mathematicians actually work — they don't start with the hardest version of a problem.</p></div>"
+    },
+    {
+      "id": "faq-8",
+      "category": "conceptual",
+      "question": "How does mathematics serve as a language, and why does this framing matter for teaching?",
+      "answer": "<p>Section 1.7 frames mathematics as a <strong>universal language</strong> with its own grammar and structure — symbols and notation that convey complex relationships precisely (NCTM, 2020; CDE, 2013). This is not a metaphor — it is a literal claim about how mathematical communication works.</p><div class=\"example-box\"><div class=\"label\">What Mathematical Language Includes</div><p class=\"math-line\"><strong>Symbols:</strong> \\(+,\\ -,\\ \\times,\\ \\div,\\ =,\\ \\neq,\\ <,\\ >,\\ \\leq,\\ \\geq\\)</p><p class=\"math-line\"><strong>Structures:</strong> definitions, theorems, conditional statements (if-then), proofs</p><p class=\"math-line\"><strong>Precision:</strong> every symbol has an exact meaning — ambiguity is not allowed</p></div><p>For future elementary teachers, this framing transforms mathematics from a rigid set of rules into a dynamic communication tool. When educators see math as language, they help students verbalize their thinking, recognize mathematical ideas as interconnected, and reduce math anxiety by building fluency rather than demanding memorization (Seda & Brown, 2021).</p>"
+    },
+    {
+      "id": "faq-9",
+      "category": "conceptual",
+      "question": "Why do students answer 'When will I ever use this?' — and how should teachers respond?",
+      "answer": "<p>This is one of the most common student questions in any math class, and your textbook's answer runs deeper than listing applications. The real issue is <em>relevance</em> — students disengage when math feels disconnected from their lives.</p><div class=\"example-box\"><div class=\"label\">Two Levels of Response</div><p class=\"math-line\"><strong>Surface level:</strong> Connect math directly to daily life — tips, taxes, schedules, recipes, music, sports statistics, coding, health data. These are real and should be named.</p><p class=\"math-line\"><strong>Deeper level:</strong> Mathematical thinking itself — the ability to reason systematically, find patterns, and solve unfamiliar problems — is one of the most transferable skills a person can have (Devlin, 2012).</p></div><div class=\"tip\"><p class=\"math-line\"><strong>Teaching move:</strong> The Mathematizing the World project (Section 1.8) is your answer in action — students find mathematics in their own lives and build a problem from it. When children see that <em>they</em> can generate math from their world, the question \"when will I use this?\" starts answering itself.</p></div><p>Your textbook's essential question frames it beautifully: <em>How can understanding mathematics as a language help us communicate complex ideas across different disciplines and real-world contexts?</em> — math isn't just for math class.</p>"
+    },
+    {
+      "id": "faq-10",
+      "category": "sticking-points",
+      "question": "Why do students feel defeated when they struggle with a hard problem, and how should teachers model persistence?",
+      "answer": "<p>This is one of your classmates' most honest questions — and the research answer is both sobering and hopeful. Feeling defeated during struggle is almost universal, and it has a name: <strong>fixed mindset</strong> (Dweck, 2006).</p><div class=\"example-box\"><div class=\"label\">Why Students Feel Defeated</div><p class=\"math-line\">US students are more likely to have a fixed mindset about mathematics than any other subject — and traditional school structures reinforce it (Boaler, 2022). Timed tests, ability grouping, and one-shot grading all send the message: <em>you either get it or you don't</em>.</p><p class=\"math-line\">When students with a fixed mindset struggle, they interpret struggle as evidence of low ability — so they disengage to protect their self-image (Seda & Brown, 2021).</p></div><div class=\"tip\"><p class=\"math-line\"><strong>How teachers model persistence:</strong></p><p class=\"math-line\">• Think out loud when you're stuck: \"I don't know how to start this yet. Let me try a simpler case.\"</p><p class=\"math-line\">• Name the struggle explicitly: \"This is supposed to be hard — that's what makes it interesting.\"</p><p class=\"math-line\">• Celebrate process, not just answers: \"I love that you tried three different strategies.\"</p><p class=\"math-line\">• Share your own mathematical failures: students need to see that their teacher also gets stuck.</p></div><p>Research shows that mindset interventions — especially messages that struggle is normal and effort builds ability — accelerate learning trajectories immediately (Blackwell et al., 2007). Your mathematical mindset as a teacher is your students' first model.</p>"
+    },
+    {
+      "id": "faq-11",
+      "category": "sticking-points",
+      "question": "Should timed tests be used in elementary math classrooms, and what does the research say?",
+      "answer": "<p>This is directly addressed in the research your textbook draws on, and the evidence is striking.</p><div class=\"example-box\"><div class=\"label\">What the Research Shows (Boaler, 2022; Beilock, 2011)</div><p class=\"math-line\">Math facts are stored in <strong>working memory</strong>. Stress blocks working memory — so under timed conditions, students who know their facts often can't recall them.</p><p class=\"math-line\">Timed tests have been shown to cause the <strong>early onset of math anxiety</strong> in a large proportion of students — sometimes as early as third grade (Boaler, 2012).</p><p class=\"math-line\">Speed rarely makes slow students faster. Instead, fast students stay fast and anxious students become slower. Timed tests <strong>sort rather than teach</strong>.</p><p class=\"math-line\">High-level mathematical thinking — as Fields Medal winner Laurent Schwartz noted — is characterized by working in depth, not speed.</p></div><div class=\"tip\"><p class=\"math-line\"><strong>What works instead:</strong> Number talks, retrieval practice spaced over time, games, and pattern exploration build fact fluency without the anxiety spike of timed tests. The goal is automaticity through understanding, not speed through fear.</p></div>"
+    },
+    {
+      "id": "faq-12",
+      "category": "sticking-points",
+      "question": "I keep skipping Step 4 (Look Back). Why does the textbook treat it as essential?",
+      "answer": "<p>Step 4 is the most skipped and most undervalued step — and your textbook is explicit that it is just as important as the others. Here's why:</p><div class=\"example-box\"><div class=\"label\">What 'Looking Back' Actually Does</div><p class=\"math-line\"><strong>Catches errors:</strong> Does your answer make sense in context? If you computed that a school has 2.7 teachers, something went wrong.</p><p class=\"math-line\"><strong>Builds transfer:</strong> Asking \"How could I have solved this differently?\" is how you add new strategies to your repertoire.</p><p class=\"math-line\"><strong>Develops metacognition:</strong> Reflecting on your process — what worked, what didn't — is the key to becoming a better problem solver over time.</p></div><div class=\"tip\"><p class=\"math-line\"><strong>For teachers:</strong> Step 4 is where the richest classroom conversations happen. \"Did anyone solve it a different way?\" opens up mathematical discourse that a single correct answer never could.</p></div><p>Your textbook's reflection prompts (Section 1.5.1) ask you to identify one key takeaway, describe an \"aha\" moment, and articulate questions you still have. These aren't just writing exercises — they are Step 4 in practice.</p>"
+    },
+    {
+      "id": "faq-13",
+      "category": "sticking-points",
+      "question": "How do I tell a linear pattern from a quadratic pattern?",
+      "answer": "<p>This is a key pattern-recognition skill from Sections 1.4–1.5, and it's the foundation for algebraic thinking students will encounter in middle school.</p><div class=\"example-box\"><div class=\"label\">The First and Second Differences Test</div><p class=\"math-line\"><strong>Step 1:</strong> List the terms of the sequence.</p><p class=\"math-line\"><strong>Step 2:</strong> Compute the <em>first differences</em> — subtract consecutive terms.</p><p class=\"math-line\">If first differences are <strong>constant</strong> → the pattern is <strong>linear</strong></p><p class=\"math-line\">If first differences are <em>not</em> constant, compute <em>second differences</em> — subtract consecutive first differences.</p><p class=\"math-line\">If second differences are <strong>constant</strong> → the pattern is <strong>quadratic</strong></p></div><div class=\"example-box\"><div class=\"label\">Example: Is 1, 4, 9, 16, 25 linear or quadratic?</div><p class=\"math-line\">First differences: 3, 5, 7, 9 → not constant</p><p class=\"math-line\">Second differences: 2, 2, 2 → constant ✓</p><p class=\"math-line\">→ <strong>Quadratic</strong> (these are the perfect squares: \\(n^2\\))</p></div>"
+    },
+    {
+      "id": "faq-14",
+      "category": "sticking-points",
+      "question": "What is the difference between a conjecture and a proof, and why can't I just say 'I see the pattern'?",
+      "answer": "<p>This is one of the most important conceptual distinctions in Chapter 1, and it directly addresses SLO 1.4 (mathematical language and precision).</p><div class=\"example-box\"><div class=\"label\">Conjecture vs. Proof</div><p class=\"math-line\">A <strong>conjecture</strong> is an educated guess based on observed patterns — inductive reasoning. It might be true, but it has not been proven.</p><p class=\"math-line\">A <strong>proof</strong> is a logical argument deduced from accepted axioms — deductive reasoning. It establishes certainty.</p></div><div class=\"caution\"><p class=\"math-line\">⚠️ Just because a pattern holds for the first 10, 100, or even 1,000 cases does not mean it holds for all cases. Mathematics requires proof, not just evidence.</p></div><p>The checkerboard problem illustrates this: seeing that 1×1=1, 2×2=5, 3×3=14 leads to a conjecture about the pattern. But to <em>know</em> it's true for any board size, you need the proven formula \\(\\sum_{k=1}^{n} k^2 = \\frac{n(n+1)(2n+1)}{6}\\). \"I see the pattern\" is the beginning of mathematical thinking, not the end of it.</p>"
+    },
+    {
+      "id": "faq-15",
+      "category": "connections",
+      "question": "How does mathematical thinking in Chapter 1 connect to everything else in the course?",
+      "answer": "<p>Chapter 1 is the methodological foundation for the entire course. Every chapter that follows asks you to apply the exact habits of mind developed here.</p><div class=\"example-box\"><div class=\"label\">Chapter 1 Skills in Later Chapters</div><p class=\"math-line\"><strong>Polya's Steps →</strong> Used explicitly in every chapter's Wonder, Play, Grow activities</p><p class=\"math-line\"><strong>Look for a Pattern →</strong> Ch. 2 (set patterns), Ch. 5 (divisibility rules), Ch. 8 (integer multiplication patterns)</p><p class=\"math-line\"><strong>Solve a Simpler Problem →</strong> Ch. 5 (checking small cases to find GCF/LCM patterns), Ch. 6 (fraction estimation before computing)</p><p class=\"math-line\"><strong>Inductive → Deductive →</strong> Ch. 3 (conjecturing about operation properties, then proving them), Ch. 5 (Fundamental Theorem of Arithmetic)</p><p class=\"math-line\"><strong>Math as Language →</strong> Every chapter uses symbolic notation precisely — fractions, set notation, divisibility, integer operations</p></div>"
+    },
+    {
+      "id": "faq-16",
+      "category": "connections",
+      "question": "How do the problem-solving strategies connect to what elementary students actually do in math class?",
+      "answer": "<p>Every strategy in Chapter 1 has a direct counterpart in elementary school mathematics. Understanding this connection is what makes you more than a math student — it makes you a future teacher.</p><div class=\"example-box\"><div class=\"label\">Elementary Connections</div><p class=\"math-line\"><strong>Draw a Picture →</strong> Foundation of every visual model: number lines, area models, fraction strips, base-ten block diagrams</p><p class=\"math-line\"><strong>Make a List or Table →</strong> Multiplication tables, factor lists, organized counting — core tools in grades 3–5</p><p class=\"math-line\"><strong>Look for a Pattern →</strong> Skip counting, multiplication patterns, and the foundation for algebraic thinking (Common Core grades 4–6)</p><p class=\"math-line\"><strong>Solve a Simpler Problem →</strong> \"Let's try it with smaller numbers first\" — a universal elementary teaching move</p><p class=\"math-line\"><strong>Guess and Test →</strong> The basis of estimation — a major emphasis in every elementary math standard</p></div><p>The Common Core Standards include mathematical practice standards that mirror Polya's framework. Knowing the strategies as a teacher means you can <em>name</em> what your students are doing and scaffold it deliberately.</p>"
+    },
+    {
+      "id": "faq-17",
+      "category": "connections",
+      "question": "How can teachers help young children learn problem-solving strategies when they mostly understand things concretely?",
+      "answer": "<p>This is one of your classmates' most practical questions, and it cuts to the heart of elementary mathematics pedagogy. The answer is the <strong>Concrete → Representational → Abstract (CRA) progression</strong>, which your textbook's visual models embody throughout the course.</p><div class=\"example-box\"><div class=\"label\">The CRA Progression for Problem Solving</div><p class=\"math-line\"><strong>Concrete:</strong> Students act out the problem with physical objects — blocks, counters, tiles. Example: \"Use tiles to show how many ways you can arrange 12 into a rectangle.\"</p><p class=\"math-line\"><strong>Representational:</strong> Students draw pictures or diagrams of the same problem. Example: \"Draw the rectangles on grid paper.\"</p><p class=\"math-line\"><strong>Abstract:</strong> Students express the relationship symbolically. Example: \"The factor pairs of 12 are 1×12, 2×6, 3×4.\"</p></div><p>Even the youngest students can use Polya's steps if the <em>tools</em> match their developmental level. A kindergartner using blocks to count and sort is doing exactly Step 2 (Devise a Plan) and Step 3 (Carry Out the Plan) — in concrete form. Your job as a teacher is to build the bridge from concrete to abstract, not to skip ahead to the symbolic.</p><div class=\"tip\"><p class=\"math-line\"><strong>Key textbook principle:</strong> The Wonder, Play, Grow activities in every chapter are designed to be low-floor, high-ceiling — accessible at the concrete level while allowing students to reach abstract generalizations. This is the same structure you'll use with elementary students.</p></div>"
+    },
+    {
+      "id": "faq-18",
+      "category": "connections",
+      "question": "What is the 'Mathematizing the World' project (Section 1.8), and what does it ask you to do?",
+      "answer": "<p>Section 1.8 is the capstone of Chapter 1 and directly addresses SLO 1.3: creating a mathematical problem-solving scenario inspired by real-world observations. The project asks you to <em>find mathematics in your own life</em> and build a problem from it.</p><div class=\"example-box\"><div class=\"label\">What the Project Requires</div><p class=\"math-line\">Identify a real-world situation you have personally observed</p><p class=\"math-line\">Pose a genuine mathematical question about it</p><p class=\"math-line\">Analyze it using counting, measuring, patterns, or spatial reasoning</p><p class=\"math-line\">Document your process using Polya's four steps explicitly</p><p class=\"math-line\">Present your work clearly — as a paper, slides, or poster (rubric assesses completeness, clarity, accuracy, and reflection)</p></div><p>The deeper purpose: if you can <em>create</em> a mathematics problem from your own world, you are ready to help elementary students do the same. And answering your own students' \"When will I ever use this?\" starts here — with you proving to yourself that mathematical thinking is everywhere.</p>"
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-1",
+      "title": "MfEST 1 Section 1.1 Problem Solving 1",
+      "url": "https://www.youtube.com/watch?v=scTFyRI6-zI",
+      "description": "Gary Parker introduces problem solving in the Math for Elementary School Teachers context — the opening session of the course, directly aligned with SLO 1.1 and Polya's four-step framework.",
+      "category": "problem-solving",
+      "relatedFaqs": ["faq-2", "faq-3"]
+    },
+    {
+      "id": "vid-2",
+      "title": "Polya's Problem Solving Process",
+      "url": "https://www.youtube.com/watch?v=zhL3EMFSm6o",
+      "description": "A clear walkthrough of Polya's four-step problem-solving framework — Understand, Devise a Plan, Carry Out, Look Back — with examples that make each step concrete and actionable (SLO 1.1).",
+      "category": "problem-solving",
+      "relatedFaqs": ["faq-2", "faq-12"]
+    },
+    {
+      "id": "vid-3",
+      "title": "MfEST 1 Section 1.1 Pizza Problem",
+      "url": "https://www.youtube.com/watch?v=McMguIr0uYA",
+      "description": "Gary Parker works through a classic problem-solving scenario, modeling how to apply Polya's steps — great for seeing Step 2 (Devise a Plan) and Step 4 (Look Back) in action.",
+      "category": "problem-solving",
+      "relatedFaqs": ["faq-2", "faq-12"]
+    },
+    {
+      "id": "vid-4",
+      "title": "MfEST 1 Section 1.1 Counting Problems",
+      "url": "https://www.youtube.com/watch?v=ZRBSIInWRU0",
+      "description": "Gary Parker demonstrates systematic counting strategies — Make a List, Draw a Diagram — showing how organized approaches reveal structure that trial-and-error misses (SLO 1.2).",
+      "category": "problem-solving",
+      "relatedFaqs": ["faq-3", "faq-7"]
+    },
+    {
+      "id": "vid-5",
+      "title": "MTH211 Patterns and Problem Solving",
+      "url": "https://www.youtube.com/watch?v=WGjBglIPnnw",
+      "description": "Gary Parker connects pattern recognition to problem solving, showing how Look for a Pattern and Solve a Simpler Problem work together to find general rules (SLO 1.1 & 1.2).",
+      "category": "patterns",
+      "relatedFaqs": ["faq-6", "faq-13"]
+    },
+    {
+      "id": "vid-6",
+      "title": "MfEST 1 Section 1.2 Patterns Part 1",
+      "url": "https://www.youtube.com/watch?v=xW92YIvILW0",
+      "description": "Gary Parker introduces linear and non-linear number patterns, building the first-differences and second-differences analysis that distinguishes linear from quadratic growth.",
+      "category": "patterns",
+      "relatedFaqs": ["faq-13", "faq-6"]
+    },
+    {
+      "id": "vid-7",
+      "title": "MfEST1 Section 1.2 Quadratic Patterns",
+      "url": "https://www.youtube.com/watch?v=dXyoH-ycDO4",
+      "description": "Gary Parker digs into quadratic patterns — sequences where second differences are constant — the same family of patterns that produces the checkerboard square counts in Section 1.6.",
+      "category": "patterns",
+      "relatedFaqs": ["faq-7", "faq-13"]
+    },
+    {
+      "id": "vid-8",
+      "title": "MfEST1 Section 1.2 Extending the Canoe Problem",
+      "url": "https://www.youtube.com/watch?v=wwHr0D346OE",
+      "description": "Gary Parker models Solve a Simpler Problem on a classic figure-pattern problem — building from small cases to a general formula, exactly as Polya's framework recommends.",
+      "category": "patterns",
+      "relatedFaqs": ["faq-7", "faq-15"]
+    }
+  ],
+  "apps": [
+    {
+      "id": "app-1",
+      "title": "The Checkerboard Square Explorer",
+      "url": "https://classiccheckerboardproblem.netlify.app/",
+      "description": "An interactive tool for exploring the classic checkerboard problem from Section 1.6 — count squares of all sizes on boards from 1×1 to 8×8, discover the pattern visually, and connect it to the Solve a Simpler Problem strategy and quadratic number patterns.",
+      "relatedFaqs": ["faq-7", "faq-14", "faq-13"]
+    }
+  ],
+  "prompts": {
+    "guided": [
+      {
+        "id": "prompt-1",
+        "title": "Walk Me Through Polya's Steps on a Real Problem",
+        "prompt": "I'm studying Chapter 1 of my Math for Elementary Teachers textbook by Dr. Romero at Santa Ana College. I want to practice Polya's four-step problem-solving method. Can you give me a moderately challenging problem and walk me through all four steps? For Step 2, help me think about which strategy to choose and why. For Step 4, ask me reflection questions rather than just summarizing. I want to experience the full process, not just see the answer."
+      },
+      {
+        "id": "prompt-2",
+        "title": "Help Me Understand Productive Struggle",
+        "prompt": "My Math for Elementary Teachers textbook by Dr. Romero at Santa Ana College talks about 'productive struggle' and mathematical mindset. I want to understand what this really means — not just as a concept, but so I can use it as a teacher. Can you help me explore: What is the difference between productive struggle and just being stuck? How should a teacher respond when a student feels defeated? And how does growth mindset research (Dweck, Boaler) connect to this? Start by asking me what I currently believe about math ability — whether it's fixed or developed."
+      },
+      {
+        "id": "prompt-3",
+        "title": "Help Me Identify Pattern Types",
+        "prompt": "I'm learning to distinguish linear, quadratic, and other types of number patterns in Chapter 1 of my Math for Elementary Teachers course at Santa Ana College. Can you give me five number sequences without telling me what type they are? I'll try to classify each one using first differences and second differences. After I try each one, give me feedback on my thinking process — not just whether I'm right."
+      },
+      {
+        "id": "prompt-4",
+        "title": "Distinguish Problem-Solving from Exercises",
+        "prompt": "My Math for Elementary Teachers textbook (Dr. Romero, Santa Ana College) distinguishes between routine exercises and genuine problem-solving tasks. I want to deeply understand this difference so I can design better instruction someday. Can you give me five math tasks and ask me to classify each as a routine exercise or a problem-solving task? Then help me articulate why the distinction matters for how students learn — and when each type is appropriate in a classroom."
+      },
+      {
+        "id": "prompt-5",
+        "title": "Help Me Design a 'Mathematizing the World' Problem",
+        "prompt": "I have to complete the Mathematizing the World project from Section 1.8 of my Math for Elementary Teachers textbook (Dr. Romero, Santa Ana College). I need to find a real-world situation I've personally observed and turn it into a mathematical problem-solving task. Can you help me brainstorm by asking me questions about my daily life, interests, or surroundings? Once we find a promising situation, help me pose a genuine mathematical question and identify which of Polya's strategies I should use to investigate it."
+      }
+    ],
+    "open": [
+      {
+        "id": "open-1",
+        "title": "Explore Something You're Curious About",
+        "prompt": "Use the AI tool of your choice. Start by describing something from Chapter 1 that you're confused about, curious about, or want to understand more deeply — a strategy that didn't click, a type of reasoning that felt unclear, a problem you couldn't quite solve, or a question about teaching that Chapter 1 raised for you. Ask the AI to help you explore it. Share what you learned, what surprised you, and one question you still have after the conversation."
+      }
+    ]
+  }
+}
